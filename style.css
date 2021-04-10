@@ -1,0 +1,28 @@
+.line {
+    height: 6px;
+    width: 70px;
+    background: black;
+    margin: 8px auto;
+}
+#MyCarousel{
+    background-color: blueviolet;
+}
+#MyCarousel img{
+    height : 400px;
+    width : 300x;
+    margin-top : 35px;
+}
+.carousel-content p{
+    color : crimson;
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+body{
+    text-align: center;
+    background-color: blueviolet
+}
+.img{
+    width : 300px;
+    height : 300px
+}
